@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working with T.I and Design gráfico
 - 🌱 I’m currently learning HTML, CSS e JavaScript
